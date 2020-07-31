@@ -1,0 +1,32 @@
+#######################################################
+######## REGEX : HACKER RANK PROBLEM ##################
+#######################################################
+
+########################################################
+###### PROBLEM 1: Matching Specific String #############
+########################################################
+
+## Link: https://www.hackerrank.com/challenges/matching-specific-string/problem
+
+#########################################################
+###################### SOLUTION #########################
+#########################################################
+
+var Regex_Pattern = 'hackerrank';
+
+function processData(Test_String) {
+  var Regex = new RegExp(Regex_Pattern, "g");
+  var Array = Test_String.match(Regex)
+  console.log("Number of matches :", Array.length);
+}
+
+process.stdin.resume();
+process.stdin.setEncoding("ascii");
+_input = "";
+process.stdin.on("data", function (input) {
+    _input += input;
+});
+
+process.stdin.on("end", function () {
+   processData(_input);
+});
