@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1c-ZlPmSvIZOW-JEGp4Vp48sid-ViVxKl?usp=sha
 
 + Interview Camp : https://drive.google.com/drive/folders/1JvHjvktNEEpl7w9_E_cC7UJaEO1FSY-_?usp=sharing
 
-+ Coding Blocka : https://drive.google.com/drive/folders/16hMZh4SPiQ12o9XETSCukeu8hee12M3A?usp=sharing
++ Coding Blocks : https://drive.google.com/drive/folders/16hMZh4SPiQ12o9XETSCukeu8hee12M3A?usp=sharing
 
 + Mosh Hameda : https://drive.google.com/drive/folders/1kAhaomxgJNVDs5msqE2wmI8mXwM9imHb?usp=sharing
 
