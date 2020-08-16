@@ -19,4 +19,6 @@ https://drive.google.com/drive/folders/1c-ZlPmSvIZOW-JEGp4Vp48sid-ViVxKl?usp=sha
 
 + Python DS&A: https://drive.google.com/drive/folders/17i-vrsinGPlPHHzTPAtMniMgU9rKtUkL?usp=sharing
 
++ GFG Placement 100: https://drive.google.com/drive/folders/16rdrga4cdZyPI0tknehmVHmwN948r9My?usp=sharing
+
 
